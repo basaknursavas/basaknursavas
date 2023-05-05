@@ -8,12 +8,12 @@
 
 ### Reach out to me :   
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/basaknursavas/]
 
 
 
-[linkedin] : https://www.linkedin.com/in/basaknursavas/ 
-[hackerrank] : https://www.hackerrank.com/basaknursavas
+
+
 
                       
                       
