@@ -11,7 +11,7 @@
 
 
  
-### Reach out to me 
+### Reach out to me  
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]   
 [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align="left" />][hackerrank]   
