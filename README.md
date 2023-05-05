@@ -6,9 +6,7 @@
 ### >>>I'm trying the best<<< 
 
 
-### Reach out to me : [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/basaknursavas/]
-
-
+### Reach out to me :[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/basaknursavas/] 
 
 
 - 🌱 I’m currently learning Backend Technologies.
