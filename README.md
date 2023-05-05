@@ -11,14 +11,14 @@
 
  
 ### Reach Out To Me :  
-[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin][<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align="left" />][hackerrank][<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]     
+[<img  width="42" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" align="left" />][linkedin][<img  width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/640px-Hackerrank_meaningful_logo.svg.png" align="left" />][hackerrank][<img  width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/640px-Gmail_Icon_%282013-2020%29.svg.png" align="left" />][gmail]     
 
 <br /> 
 <br />
 
 
 ### Tech I Use :
-<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" > 
+<img src= "https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/600px-Java_Logo.svg.png?20111229210123" width="42" height="60" > 
 
 <details>
  <summary>:bulb: Github Stats</summary> 
