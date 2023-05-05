@@ -7,13 +7,18 @@
 
 
 - 🌱 I’m currently learning Backend Technologies.
-- 📫 How to reach me: basaknursavas@gmail.com
 
 
  
-### Reach out to me  
-[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]   [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align="left" />][hackerrank]   [<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]    
+### Reach Out To Me :  
+[<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin][<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align="left" />][hackerrank][<img  width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]     
 
+<br /> 
+<br />
+
+
+### Tech I Use :
+<img src= "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" >
 
 
 
