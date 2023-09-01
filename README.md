@@ -20,10 +20,7 @@
 ### Tech I Use :
 <img src= "https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/600px-Java_Logo.svg.png?20111229210123" width="42" height="60" > <img src= "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" height="50" >
 
-<details>
- <summary>:bulb: Github Stats</summary> 
- <img src="https://github-readme-stats.vercel.app/api?username=basaknursavas" >
-</details>
+
 
 
 [linkedin]: https://www.linkedin.com/in/basaknursavas/ 
