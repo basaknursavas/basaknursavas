@@ -6,7 +6,6 @@
 ### >>>I'm trying the best<<<  
 
 
-- 🌱 I’m currently learning Backend Technologies.
 
 
  
